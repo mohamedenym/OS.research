@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import BootScreen from './components/BootScreen';
 import HeroSection from './components/HeroSection';
 import WhatIsOS from './components/WhatIsOS';
